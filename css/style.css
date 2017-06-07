@@ -74,7 +74,7 @@ header a:hover{
 /* Showcase */
 #showcase{
 	min-height:400px;
-	background:url('../img/breadsthetic.jpg') no-repeat 0 -400px;
+	background:url("http://i.imgur.com/YSaMoLr.jpg") no-repeat 0 -400px;
 	text-align:center;
 	font-weight:bold;
 	color:#472d10;
